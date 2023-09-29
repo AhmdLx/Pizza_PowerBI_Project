@@ -9,7 +9,7 @@ Fridays emerged as the pinnacle of activity, constituting a remarkable 16% of to
 Curiously, Sundays, while seemingly serene, commanded a respectable 14% of the total orders, underscoring the nuances of customer behavior.
 
 3. Size as a Decisive Factor:
-The allure of "Large" pizzas was irresistible, commanding 46% of total sales , and (44%) of total sales in category Vegie  and (38%) of total sales in categoriy Chicken.
+The allure of "Large" pizzas was irresistible, commanding 46% of total sales , and (44%) of total sales in category Vegie  and (38%) of total sales in category Chicken.
 In the realm of "Classic" pizzas, the small-sized delicacies stole the spotlight, thanks to the enchanting appeal of the "Big Meat Pizza."
 
 3. The Enigma of Greek Pizza:
